@@ -1,1 +1,1 @@
-"Learning AI journey with Muhammad Shakir" 
+"Learning AI journey with Muhammad Shakir through PSF Mumbai"
